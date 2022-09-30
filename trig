@@ -1,0 +1,20 @@
+#include<iostream>
+#include<iomanip>
+#include<conio.h>
+using namespace std;
+int main(){
+	float opp=3,adj=4,hyp=5,sin,cos,tan,cosec,sec,cot;
+	sin=(opp/hyp);
+	cos=(adj/hyp);
+	tan=(opp/adj);
+	cosec=(1/sin);
+	sec=(1/cos);
+	cot=(1/tan);
+	cout<<sin<<endl;
+	cout<<cos<<endl;
+	cout<<tan<<endl;
+	cout<<cosec<<endl;
+	cout<<sec<<endl;
+	cout<<cot<<endl;
+	
+}
