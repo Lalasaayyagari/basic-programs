@@ -13,3 +13,7 @@ int main(){
 	cin>>num;
 	cout<<"factorial of: "<<num<<" is "<<fact(num);
 }
+/*
+enter a positive number: 5
+factorial of: 5 is 120
+*/
