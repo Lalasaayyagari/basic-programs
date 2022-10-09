@@ -33,4 +33,12 @@ int main(){
 	
 	cout<<"sum of above times is- "<<endl;
 	t3.put();
-	}                                                                                                                                                                                                                                                                                                                                                           
+	}      
+/*OUTPUT
+hours is: 1
+minutes is: 15
+hours is: 1
+minutes is: 24
+sum of above times is-
+hours is: 2
+minutes is: 39*/
