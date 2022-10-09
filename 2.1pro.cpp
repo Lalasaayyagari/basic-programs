@@ -1,6 +1,5 @@
 #include<iostream>
-#include<iomanip>
-#include<string>
+
 using namespace std;
 int main(){
 	float x,y,avg;
@@ -9,7 +8,9 @@ int main(){
 	cout<<"average is: "<<avg<<endl;
 	}
 	
-	
-	
+/*output	
+6
+8
+average is: 7*/	
 	
 
