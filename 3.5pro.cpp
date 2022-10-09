@@ -1,6 +1,6 @@
 #include<iostream>
 #include<iomanip>
-#include<string>
+
 using namespace std;
 int main(){
 	int integer=58;
@@ -11,3 +11,9 @@ int main(){
 	cout<<"\nfloat to int: "<<int(decimal);
 	
 }
+/*output
+integer: 58
+float: 56.5
+int to float: 58
+float to int: 56
+*/
