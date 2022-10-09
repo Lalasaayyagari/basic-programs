@@ -27,3 +27,24 @@ for(int i=0;i<4;i++){
 }
 
 }
+/*OUTPUT
+enter name: lalasa
+enter age: 18
+enter name: aswanth
+enter age: 18
+enter name: puneeth
+enter age: 19
+enter name: rahul
+enter age: 14
+details of manager1 are:
+name is: lalasa
+age is: 18
+details of manager2 are:
+name is: aswanth
+age is: 18
+details of manager3 are:
+name is: puneeth
+age is: 19
+details of manager4 are:
+name is: rahul
+age is: 14*/
