@@ -26,3 +26,9 @@ int main(){
 	p.set();
 	cout<<"average value is: "<<average(p);
 	}
+/*OUTPUT
+a= 11
+b= 22
+c= 33
+d= 4
+average value is: 17.5*/
