@@ -30,3 +30,12 @@ int main()
 	y.get(6,999);
 	y.put();
 	}
+
+/*OUTPUT
+object X:
+NUMBER: 5
+COST: 899
+
+object Y:
+NUMBER: 6
+COST: 999*/
