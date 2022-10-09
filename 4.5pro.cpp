@@ -16,3 +16,6 @@ int main()
 	cout<<"\narea of circle: "<<area(5.5f);
 }
 
+/*area of square: 25
+area of rectangle: 30
+area of circle: 94.9858/*
